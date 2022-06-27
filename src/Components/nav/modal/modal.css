@@ -1,0 +1,28 @@
+.main{
+    position: absolute;
+}
+
+.modal{
+    height: 100% !important;
+}
+ 
+ .modal-backdrop{
+    position: absolute;
+    z-index: 50;
+} 
+
+iframe{
+    height: 65vh;
+    width: 98%;
+}
+
+.btnmodal{
+    background: var(--main-backgraound);
+    color: #fff !important;
+    border: var(--main-backgraound);
+}
+
+.btnmodal:hover{
+    background-color: rgb(6, 14, 27);
+    border: rgb(6, 14, 27);
+}
