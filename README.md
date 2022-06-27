@@ -1,4 +1,4 @@
 # Mi portafolio
 
-Este es mi portafolio personal
+Este es mi portafolio
 
