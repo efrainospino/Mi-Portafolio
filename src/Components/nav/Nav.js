@@ -45,7 +45,7 @@ export const Nav = () => {
     
     <nav className={navbar ? 'navbar active navbar-expand-lg navbar-dark bg-outline sticky-top p-0 maquina' : 'navbar navbar-expand-lg navbar-dark bg-outline sticky-top p-0 maquina' }>
         <div className="container-fluid">
-            <a className="navbar-brand" href="/" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Logo">
+            <a className="navbar-brand" href="https://efrainospino.github.io/Mi-Portafolio/" data-bs-toggle="tooltip" data-bs-placement="bottom" title="Logo">
                 <img src={logo} width="40px" alt="Logo formulario" />
             </a>
             <button className="navbar-toggler shadow-none btn-responsi" type="button" id='hide' data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"  aria-label="Toggle navigation">
