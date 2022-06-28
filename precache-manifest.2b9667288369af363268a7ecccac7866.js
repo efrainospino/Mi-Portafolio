@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9f51ef4719776fd6fc23",
+    "revision": "fee946804ca7bfb34abc",
     "url": "/Mi-Portafolio/static/css/main.23f1fc9a.chunk.css"
   },
   {
-    "revision": "9f51ef4719776fd6fc23",
-    "url": "/Mi-Portafolio/static/js/main.9f51ef47.chunk.js"
+    "revision": "fee946804ca7bfb34abc",
+    "url": "/Mi-Portafolio/static/js/main.fee94680.chunk.js"
   },
   {
     "revision": "46813f8bd4537e98c1cf",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/Mi-Portafolio/static/media/Logo2.222913eb.png"
   },
   {
-    "revision": "d903407e6502218512419ec0d430f3a3",
-    "url": "/Mi-Portafolio/static/media/Efrain ospino - hoja de vida.d903407e.pdf"
+    "revision": "dd5a2efe0e9c06151c169239373ed209",
+    "url": "/Mi-Portafolio/static/media/Efrain ospino - hoja de vida.dd5a2efe.pdf"
   },
   {
     "revision": "3851e0194e82efa8a32bdc79af7de5a1",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Mi-Portafolio/static/media/Preloader.1e3fd2f6.mp4"
   },
   {
-    "revision": "fd132bb672df8c8c707f4f8570b089f2",
+    "revision": "bead7960fcda08ca0107d196d878e973",
     "url": "/Mi-Portafolio/index.html"
   }
 ];
