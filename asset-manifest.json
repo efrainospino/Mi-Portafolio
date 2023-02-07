@@ -1,7 +1,7 @@
 {
   "main.css": "/Mi-Portafolio/static/css/main.c0929341.chunk.css",
-  "main.js": "/Mi-Portafolio/static/js/main.1a3d3be5.chunk.js",
-  "main.js.map": "/Mi-Portafolio/static/js/main.1a3d3be5.chunk.js.map",
+  "main.js": "/Mi-Portafolio/static/js/main.78873fd5.chunk.js",
+  "main.js.map": "/Mi-Portafolio/static/js/main.78873fd5.chunk.js.map",
   "static/css/1.5fb42cf6.chunk.css": "/Mi-Portafolio/static/css/1.5fb42cf6.chunk.css",
   "static/js/1.774d0e62.chunk.js": "/Mi-Portafolio/static/js/1.774d0e62.chunk.js",
   "static/js/1.774d0e62.chunk.js.map": "/Mi-Portafolio/static/js/1.774d0e62.chunk.js.map",
@@ -22,9 +22,9 @@
   "static/media/bootstrap.png": "/Mi-Portafolio/static/media/bootstrap.9a82a6e0.png",
   "static/media/tailwind.png": "/Mi-Portafolio/static/media/tailwind.7e1ec4bf.png",
   "static/media/Preloader.mp4": "/Mi-Portafolio/static/media/Preloader.1e3fd2f6.mp4",
-  "static/css/1.5fb42cf6.chunk.css.map": "/Mi-Portafolio/static/css/1.5fb42cf6.chunk.css.map",
   "static/css/main.c0929341.chunk.css.map": "/Mi-Portafolio/static/css/main.c0929341.chunk.css.map",
+  "static/css/1.5fb42cf6.chunk.css.map": "/Mi-Portafolio/static/css/1.5fb42cf6.chunk.css.map",
   "index.html": "/Mi-Portafolio/index.html",
-  "precache-manifest.2cc8d06b7306a456d4913bcbe180d31b.js": "/Mi-Portafolio/precache-manifest.2cc8d06b7306a456d4913bcbe180d31b.js",
+  "precache-manifest.abcc5f58c0d5e83be515acb0aa7fb83a.js": "/Mi-Portafolio/precache-manifest.abcc5f58c0d5e83be515acb0aa7fb83a.js",
   "service-worker.js": "/Mi-Portafolio/service-worker.js"
 }
