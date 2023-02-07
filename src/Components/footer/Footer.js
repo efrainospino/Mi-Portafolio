@@ -53,7 +53,7 @@ const Footer = () => {
     <div className='mt-5 pt-5 mb-5 container' id='footer'>
         <h3 className='typetext h3 d-flex justify-content-center'>
             <span className="span maquina fs-4">
-                03.
+                04.
             </span>
             Contáctame
         </h3>

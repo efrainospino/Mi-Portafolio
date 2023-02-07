@@ -20,7 +20,7 @@ const Modal = () => {
                     </div>
                     <div className="modal-body">
                         <center>
-                            <iframe title='mi documento' src={pdf}></iframe>
+                            <iframe title='mi documento' loading="lazy" src={pdf}></iframe>
                         </center>
                     </div>
                     <div className="modal-footer">

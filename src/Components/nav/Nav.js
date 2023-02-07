@@ -62,9 +62,17 @@ export const Nav = () => {
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to="proyectos" smooth={true} offset={-50} duration={500} className="nav-link mx-1 mt-1" onClick={()=> hidenav()}>
+                        <Link to="habilidades" smooth={true} offset={-50} duration={500} className="nav-link mx-1 mt-1" onClick={()=> hidenav()}>
                             <span className='spancolor'>
                                 02.
+                            </span>
+                             Habilidades
+                        </Link>
+                    </li>
+                    <li className="nav-item">
+                        <Link to="proyectos" smooth={true} offset={-50} duration={500} className="nav-link mx-1 mt-1" onClick={()=> hidenav()}>
+                            <span className='spancolor'>
+                                03.
                             </span>
                              Proyectos
                         </Link>
@@ -72,7 +80,7 @@ export const Nav = () => {
                     <li className="nav-item">
                         <Link to="footer" smooth={true} offset={0} duration={500} className="nav-link mx-1 mt-1" onClick={()=> hidenav()}>
                             <span className='spancolor'>
-                                03.
+                                04.
                             </span>
                              Contáctame
                         </Link>

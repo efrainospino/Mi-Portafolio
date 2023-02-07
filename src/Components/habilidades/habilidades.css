@@ -1,0 +1,51 @@
+#h2::after{
+    content: "" !important;
+    display: inline-block !important;
+    position: relative !important;
+    width: 100% !important;
+    top:-5px !important;
+    height: 1px !important;
+    margin-left: 30px !important;
+    background-color: var(--main-colortitle) !important;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 200px;
+    grid-gap: 10px;
+}
+
+#expand {
+    width: 80% !important;
+}
+
+#skillCard:hover{
+    background-color: rgb(13, 22, 41) !important;
+}
+
+#skillCard{
+    background-color: var(--main-backgraound);
+    border: none;
+    cursor: default;
+    box-shadow: 4px 4px 8px 1px rgba(0, 0, 0, 0.2);
+    height: 200px !important;
+    width: auto !important;
+}
+
+#h5skill{
+    color: var(--main-colortitle);
+}
+
+#imgskill{
+    filter: none !important;
+    object-fit: contain !important;
+    height: 60% !important;
+    width: 70% !important;
+}
+
+@media (min-width: 900px) {
+    .wrapper {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}

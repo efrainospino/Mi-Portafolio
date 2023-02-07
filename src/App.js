@@ -3,6 +3,7 @@ import React from 'react';
 import Nav from './Components/nav/Nav';
 import Cover from './Components/cover/Cover';
 import About from './Components/about/About';
+import Habilidades from './Components/habilidades/habilidades';
 import Proyectos from './Components/proyectos/Proyectos';
 import Footer from './Components/footer/Footer';
 import Preloader from './Components/preloader/Preloader';
@@ -15,7 +16,7 @@ const App = () => {
 
   window.addEventListener('load', () => {
 
-    setTimeout(carga, 500);
+    setTimeout(carga, 200);
 
     function carga(){
       document.getElementById('preloader').className = 'ocultar-main';
@@ -35,6 +36,7 @@ const App = () => {
             <Nav/>
             <Cover/>
             <About/> 
+            <Habilidades/> 
             <Proyectos/>
             <Footer/>
         </div>    

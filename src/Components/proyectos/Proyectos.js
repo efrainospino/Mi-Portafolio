@@ -7,7 +7,7 @@ export const Proyectos = () => {
     <div className='mt-5 pt-5 container' id='proyectos'>
         <h3 className='typetext ms-3'>
           <span className='span maquina fs-4'>
-            02.
+            03.
           </span>
             Mis Proyectos
         </h3>

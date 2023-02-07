@@ -14,7 +14,7 @@ const Cover = () => {
                 <h3 className='maquina'>Hola, mi nombre es...</h3>
                 <h1 className='typetext h1prin'>Efrain Ospino.</h1>
                 <h1 className='typetext h1secon'>Construyo páginas web.</h1>
-                <p className='typetext'>Desarrollador | Diseñador | Frontend</p>
+                <p className='typetext'>Desarrollador | Diseñador | Fullstack</p>
               </div>
             </div>
           </div>
